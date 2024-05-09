@@ -1,4 +1,4 @@
 # Openclassrooms-Project
 
-##Managing code with Git and GitHub
+## Managing code with Git and GitHub
 
